@@ -1,3 +1,4 @@
+# This is my serializer file - JSONifies data!
 from rest_framework import serializers
 from .models import Course
 
